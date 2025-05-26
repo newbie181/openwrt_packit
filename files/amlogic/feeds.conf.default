@@ -1,1 +1,10 @@
+src-git base https://git.openwrt.org/openwrt/openwrt.git
+src-git packages https://github.com/openwrt/packages.git
+src-git luci https://github.com/openwrt/luci.git
+src-git routing https://git.openwrt.org/feed/routing.git
+src-git telephony https://git.openwrt.org/feed/telephony.git
+
+# Tambahan feed Passwall & OpenClash
+src-git kenzo https://github.com/kenzok8/openwrt-packages.git
+src-git small https://github.com/kenzok8/small.git
 
